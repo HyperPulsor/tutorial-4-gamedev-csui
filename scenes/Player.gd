@@ -37,7 +37,6 @@ func get_input():
 
 func _physics_process(delta):
 	velocity.y += delta * GRAVITY
-	print(health)
 	get_input()
 	velocity = move_and_slide(velocity, UP)
 
