@@ -7,7 +7,8 @@
 
 #### Pengerjaan Level Baru :
 
-- **Tilemap dan Spawner**, Pada level baru ini proses pembuatan tilemap dan spawner sama dengan yang diberikan pada tutorial. Akan tetapi, spreadsheet yang digunakan untuk tilemap dan scene yang digunakan sebagai objek spawner berbeda. Spreadsheet yang digunakan adalah `spritesheet_gr_sand.png`. Lalu, untuk objek spawner yang digunakan adalah dari scene `FallingSaw.tscn` dan `FallingBernacle.tscn`. Masing-masing dari objek ini memiliki waktu timer yang berbeda berdasarkan variabel `timer_duration` yang diset dari inspector. Setiap objek spawner juga memiliki bentuk collision dan sprite yang berbeda.<br></br>
+- **Tilemap dan Spawner**, Pada level baru ini proses pembuatan tilemap dan spawner sama dengan yang diberikan pada tutorial. Akan tetapi, akan dibuat tilemap baru `sand_tileset.tres` dengan spreadsheet yang digunakan dan scene yang digunakan sebagai objek spawner, itu berbeda. Spreadsheet yang digunakan adalah `spritesheet_gr_sand.png`. Lalu, untuk objek spawner yang digunakan adalah dari scene `FallingSaw.tscn` dan `FallingBernacle.tscn`. Masing-masing dari objek ini memiliki waktu timer yang berbeda berdasarkan variabel `timer_duration` yang diset dari inspector. Setiap objek spawner juga memiliki bentuk collision dan sprite yang berbeda.<br></br>
+![image](https://github.com/HyperPulsor/tutorial-4-gamedev-csui/assets/101686378/079f3bf5-dbf5-446b-b7b7-eab6b93b6f6d)
 ![image](https://github.com/HyperPulsor/tutorial-4-gamedev-csui/assets/101686378/025f9330-bdad-46c3-82b2-9535beecbd76)
 ![image](https://github.com/HyperPulsor/tutorial-4-gamedev-csui/assets/101686378/cc37d1c5-c717-4d63-980d-2819f2798e02)
 
